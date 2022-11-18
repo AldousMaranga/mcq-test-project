@@ -1,0 +1,10 @@
+1. How can a datatype be declared to be a constant type?,A. const,B. var,C. constant,D. let,a
+2. Which of the following can display the code to the terminal?,A. window.alert(),B. document.write(),C. console.log(),D. All of the Above,c
+3. What keyword is used to define a variable in JavaScript?,A. let,B. var,C. None of the Above,D. A and B,d
+4. JavaScript is a _____ language.,A. Object-Based ,B. Object-Oriented,C. Procedural,D. None of the Above,b
+5. Which function is used to serialize an object into a JSON string in Javascript?,A. stringify();,B. parse();,C. convert();,d
+6. Which of the following is not a Javascript framework?,A. Node ,B. Cassandra,C. Vue,D. React,b
+7. What keyword is used to declare an asynchronous function in Javascript?,A. async,B. await,C. setTimeout,D. None of the Above,a
+8. How do we write a comment in javascript?,A. /* */,B. //,C. #,D. $$,b
+9. Is JavaScript a server-side programming?,A. Yes,B. No,C. Maybe,D. None of the Above,a
+10. Which of the following methods is used to access HTML elements using Javascript?,A. getElementById(),B. getElementByClassName(),C. Both A and B,D. None of the Above,c
